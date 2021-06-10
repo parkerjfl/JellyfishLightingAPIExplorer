@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>3669458D-388E-4B74-9601-5752DDE9B742</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3669458D-388E-4B74-9601-5752DDE9B742.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Runner project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Runner</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace Runner with scheme Runner and configuration Release</string>
+			<key>timeStartedRecording</key>
+			<real>644865897.94074702</real>
+			<key>timeStoppedRecording</key>
+			<real>644865901.90099394</real>
+			<key>title</key>
+			<string>Building workspace Runner with scheme Runner and configuration Release</string>
+			<key>uniqueIdentifier</key>
+			<string>3669458D-388E-4B74-9601-5752DDE9B742</string>
+		</dict>
+		<key>B9837B02-5915-41F2-A8E6-A26FE76B0A69</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B9837B02-5915-41F2-A8E6-A26FE76B0A69.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Runner project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Runner</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace Runner with scheme Runner and configuration Release</string>
+			<key>timeStartedRecording</key>
+			<real>644863992.74288094</real>
+			<key>timeStoppedRecording</key>
+			<real>644863997.57242799</real>
+			<key>title</key>
+			<string>Building workspace Runner with scheme Runner and configuration Release</string>
+			<key>uniqueIdentifier</key>
+			<string>B9837B02-5915-41F2-A8E6-A26FE76B0A69</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

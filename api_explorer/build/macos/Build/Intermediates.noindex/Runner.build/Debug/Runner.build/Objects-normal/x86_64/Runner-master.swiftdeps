@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)"
+options: "be76cb4c994b45889f3be68493d0c99c"
+build_time: [1623101140, 993736000]
+inputs:
+  "/Users/parkermurray/Development/api_explorer/macos/Runner/MainFlutterWindow.swift": [1619807947, 0]
+  "/Users/parkermurray/Development/api_explorer/macos/Runner/AppDelegate.swift": [1619807947, 0]
+  "/Users/parkermurray/Development/api_explorer/macos/Flutter/GeneratedPluginRegistrant.swift": [1623101136, 10686647]
